@@ -1,2 +1,2 @@
 # Study
-to achieve a 2018's goal
+to achieve a 2018's goal(C++)
